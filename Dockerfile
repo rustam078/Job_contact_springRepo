@@ -1,5 +1,8 @@
-FROM openjdk:11-jdk-alpine
-VOLUME /tmp
-ADD target/docker-h2-1.jar app.jar
-ENV JAVA_OPTS=""
-ENTRYPOINT [ "sh", "-c", "java $JAVA_OPTS -Djava.security.egd=file:/dev/./urandom -jar /app.jar" ]
+
+FROM openjdk:11
+
+COPY target/app.jar  /usr/app/
+
+WORKDIR /usr/app/
+
+ENTRYPOINT ["java", "-jar", "spring-boot-docker-app.jar"]
