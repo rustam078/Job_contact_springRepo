@@ -1,0 +1,6 @@
+com\job\jobcompany\service\IJobService.class
+com\job\jobcompany\service\JobServiceImpl.class
+com\job\jobcompany\model\JobPerson.class
+com\job\jobcompany\repository\IJobRepository.class
+com\job\jobcompany\JobcompanyApplication.class
+com\job\jobcompany\controller\JobController.class
