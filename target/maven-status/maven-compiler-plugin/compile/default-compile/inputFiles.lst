@@ -1,6 +1,7 @@
 E:\ashok-spring-practice\jobcompany\src\main\java\com\job\jobcompany\service\IJobService.java
 E:\ashok-spring-practice\jobcompany\src\main\java\com\job\jobcompany\model\JobPerson.java
 E:\ashok-spring-practice\jobcompany\src\main\java\com\job\jobcompany\controller\JobController.java
+E:\ashok-spring-practice\jobcompany\src\main\java\com\job\jobcompany\config\SwaggerConfig.java
 E:\ashok-spring-practice\jobcompany\src\main\java\com\job\jobcompany\repository\IJobRepository.java
 E:\ashok-spring-practice\jobcompany\src\main\java\com\job\jobcompany\service\JobServiceImpl.java
 E:\ashok-spring-practice\jobcompany\src\main\java\com\job\jobcompany\JobcompanyApplication.java

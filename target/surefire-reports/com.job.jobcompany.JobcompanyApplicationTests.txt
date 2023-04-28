@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.job.jobcompany.JobcompanyApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.343 s - in com.job.jobcompany.JobcompanyApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.667 s - in com.job.jobcompany.JobcompanyApplicationTests
